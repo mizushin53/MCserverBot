@@ -1,4 +1,3 @@
 # node_modules系
 node_modules/
-# 環境変数
 .env
